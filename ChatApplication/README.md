@@ -33,7 +33,7 @@ To get started, create a SharePoint list with the following columns:
 
 ### Step 2: Download and Import the Solution
 
-1. **Download the ZIP File**: Click [here](link-to-zip-file) to download the Chat Application solution ZIP file.
+1. **Download the ZIP File**: Download the Chat Application solution ZIP file.
 2. **Import into Power Apps**:
    - Go to [Power Apps](https://make.powerapps.com) and navigate to **Solutions**.
    - Select **Import Solution** and upload the downloaded ZIP file.
@@ -60,3 +60,5 @@ Thank you for choosing this Chat Application! 🎉 If you have any issues or nee
 ---
 
 Enjoy chatting and collaborating with ease!
+
+## Regards - Shashika Hettiarachchi ❤️
