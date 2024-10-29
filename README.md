@@ -9,6 +9,9 @@ This is your go-to playground for exploring, experimenting, and building in the 
 
 Feel free to experiment, break, rebuild, and learn. Make this repository your own personal Power Platform playground, where your skills grow, and ideas come to life!
 
+### Sampe Projects
+
+- **[Chat Application - With SharePoint Lists](https://github.com/schetti92/PowerApps/tree/main/ChatApplication)**
 
 ## Regards - Shashika Hettiarachchi ❤️
 
