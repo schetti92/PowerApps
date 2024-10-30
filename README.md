@@ -12,6 +12,7 @@ Feel free to experiment, break, rebuild, and learn. Make this repository your ow
 ### Sampe Projects
 
 - **[Chat Application - With SharePoint Lists](https://github.com/schetti92/PowerApps/tree/main/ChatApplication)**
+- **[Recipe Wizard using PowerApps and Generative AI](https://github.com/schetti92/PowerApps/tree/main/RecipeWizardApp)**
 
 ## Regards - Shashika Hettiarachchi ❤️
 
