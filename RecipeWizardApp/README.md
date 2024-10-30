@@ -47,7 +47,10 @@ Recipe Wizard is a user-friendly application that transforms your kitchen ingred
 4. **Bind Textbox Inputs to the Gallery**  
    Set the gallery’s data source to bind the inputs from the text boxes into a variable.
 
-5. **Add an AI Prompt Button**  
+5. **Import the AI Data Prompt**  
+   Import the AI Prompt data connection into canvas app
+
+6. **Add an AI Prompt Button**  
    Include a button to display the AI-generated prompt.
 
 ### Enjoy cooking with AI! Let your ingredients be your guide, and let AI sprinkle some magic—because cooking should be fun!
