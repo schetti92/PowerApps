@@ -11,6 +11,7 @@ Feel free to experiment, break, rebuild, and learn. Make this repository your ow
 
 ### Sample Projects
 
+- **[Top Navigation Menu Component](https://github.com/schetti92/PowerApps/tree/main/TopNavBarMenuPowerapps)**
 - **[Expandable Left Navigation Component ](https://github.com/schetti92/PowerApps/tree/main/ExpandableLeftNavComponent)**
 - **[PTE Like Essay writting App using PowerApps and Generative AI](https://github.com/schetti92/PowerApps/tree/main/EssayWritingApp)**
 - **[Chat Application - With SharePoint Lists](https://github.com/schetti92/PowerApps/tree/main/ChatApplication)**
