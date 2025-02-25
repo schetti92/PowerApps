@@ -1,4 +1,4 @@
-# Fully Customizable Responsive Modal-Popup Component in Power Apps
+# Fully Customizable Responsive Popup Spinner Component for Power Apps
 
 ## Overview
 
