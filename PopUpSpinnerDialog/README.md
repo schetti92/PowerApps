@@ -36,7 +36,7 @@ The COM_WaitTimer component is a fully customizable and responsive popup spinner
 ## Changing the Spinner Image
 
 You can replace the default spinner GIF with a custom one by setting the `spinnerImage` property. You can create spinning GIFs using [loading.io](https://loading.io/).
-![Intro](./localImages/3.png)
+![Intro](./localImage/3.png)
 
 ### Screenshots
 
