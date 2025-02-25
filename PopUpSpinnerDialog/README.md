@@ -4,7 +4,7 @@
 
 The COM_WaitTimer component is a fully customizable and responsive popup spinner for Power Apps. It works seamlessly across mobile, tablet, and desktop screens. This component allows you to display a loading indicator with a customizable spinner image and text while performing background operations.
 
-![Intro](./localImages/COMVIEW.gif)
+
 
 ## Features
 
@@ -36,12 +36,10 @@ The COM_WaitTimer component is a fully customizable and responsive popup spinner
 ## Changing the Spinner Image
 
 You can replace the default spinner GIF with a custom one by setting the `spinnerImage` property. You can create spinning GIFs using [loading.io](https://loading.io/).
-![Intro](./localImages/3.png)
+
 
 ### Screenshots
 
-![Intro](./localImages/1.png)
-![Intro](./localImages/2.png)
-![Intro](./localImages/4.png)
+
 
 ## Regards - Shashika Hettiarachchi ❤️
